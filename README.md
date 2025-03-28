@@ -22,7 +22,11 @@
   <img align="center" width="500" src="Screenshot.png" />
 </p>
 
+## What is **HackerGPT** ?
 
+- HackerGPT is an advanced AI designed for cybersecurity professionals, **ethical hackers** , **MalWare**, and **penetration testers**. It assists in **vulnerability analysis**, **security script generation**, and **cybersecurity research**, **Backdoor implementation** . Unlike traditional AI models, HackerGPT provides unrestricted access, empowering you to explore the cyber world with greater flexibility and efficiency. 🚀
+
+  
 ## Installation and Development 🚀
 
 ### Via Git ⚡️
