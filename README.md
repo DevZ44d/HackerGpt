@@ -33,7 +33,7 @@
 
 ```shell
 # via Git
-git clone https://github.com/HackerGpt.git
+git clone https://github.com/DevZ44d/HackerGpt.git
 
 cd HackerGpt
 
