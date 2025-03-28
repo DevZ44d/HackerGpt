@@ -41,5 +41,5 @@ if __name__ == '__main__':
             for char in Obj:
                 sys.stdout.write(char)
                 sys.stdout.flush()
-                time.sleep(0.01)
+                time.sleep(0.001)
         print()
