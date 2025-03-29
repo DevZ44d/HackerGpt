@@ -5,7 +5,7 @@ from colorama import Fore
 
 class HackerGpt:
     def __init__(self):
-        self.url = "https://dev-pycodz-blackbox.pantheonsite.io/DEvZ44d/HackerGpt.php"
+        self.url = "https://dev-pycodz-blackbox.pantheonsite.io/DEvZ44d/Hacker.php"
 
     def prompt(self, request):
         json_data = {
