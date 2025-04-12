@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<a href="https://pypi.org/project//">
+<a href="https://pypi.org/project/SyncAi/">
     <img src="https://img.shields.io/pypi/v/censys?color=red&logo=pypi&logoColor=red">
   </a>
 
@@ -35,22 +35,23 @@
 ### Via `PyPi` ⚡️
 ```shell
 # via PyPi
-pip install HackerGpt -U
+pip install SyncAi -U
 ```
 
 ### Using in `Terminal` 🚀
 ```shell
-HackerGpt -[OPTIONS] "[PROMPT]"
+syncai -[OPTIONS] "[PROMPT]"
 ```
 
 ### Usage 📚
 ```zsh
-Usage: HackerGpt -[OPTIONS] "[PROMPT]"
+Usage: syncai -[OPTIONS] "[PROMPT]"
 
 Options:
   -p, --prompt                    Start Chatting  .
   -img, --imager                  Generation images by prompt .
   -h, --help                      Show this message and exit .
+  -v, --version                   Show Version Of Libarary .
 ```
 
 ### Via `Git` ( Recommended ) ⚡️
