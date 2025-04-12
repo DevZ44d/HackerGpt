@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img align="center" width="200" src="logo.png" />
 
@@ -8,6 +10,10 @@
 
 <p align="center">
 
+<a href="https://pypi.org/project//">
+    <img src="https://img.shields.io/pypi/v/censys?color=red&logo=pypi&logoColor=red">
+  </a>
+
   <a href="https://t.me/Pycodz">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram">
   </a>
@@ -17,20 +23,36 @@
   </a>
 </p>
 
+> **Notice:** API-KEY may be Expire so Contact Me For Get Free **[Telegram Chat](https://t.me/iasynx)**
 
-<p align="center">
-  <img align="center" width="500" src="Screenshot.png" />
-</p>
-
-## What is **HackerGPT** ?
-
-- HackerGPT is an advanced AI designed for cybersecurity professionals, **ethical hackers** , **MalWare**, and **penetration testers**. It assists in **vulnerability analysis**, **security script generation**, and **cybersecurity research**, **Backdoor implementation** . Unlike traditional AI models, HackerGPT provides unrestricted access, empowering you to explore the cyber world with greater flexibility and efficiency. 🚀
+> [!IMPORTANT]
+> HackerGPT is an advanced AI designed for cybersecurity professionals, `ethical hackers` , `MalWare`, and `penetration testers`. It assists in `vulnerability analysis`, `security script generation`, and `cybersecurity research`, `Backdoor implementation` . Unlike traditional AI models, HackerGPT provides unrestricted access, empowering you to explore the cyber world with greater flexibility and efficiency. 🚀
 
   
-## Installation and Development 🚀
+### Installation and Development 🚀
 
-### Via Git ⚡️
+### Via `PyPi` ⚡️
+```shell
+# via PyPi
+pip install HackerGpt -U
+```
 
+### Using in `Terminal` 🚀
+```shell
+HackerGpt -[OPTIONS] "[PROMPT]"
+```
+
+### Usage 📚
+```zsh
+Usage: HackerGpt -[OPTIONS] "[PROMPT]"
+
+Options:
+  -p, --prompt                    Start Chatting  .
+  -img, --imager                  Generation images by prompt .
+  -h, --help                      Show this message and exit .
+```
+
+### Via `Git` ( Recommended ) ⚡️
 ```shell
 # via Git
 git clone https://github.com/DevZ44d/HackerGpt.git
@@ -39,6 +61,9 @@ cd HackerGpt
 
 python3 main.py
 ```
+### 📦 Features
+- Save Chats ( **[In My GitHub Repositories](https://github.com/DevZ44d/HackerGpt.git)** ) .
+- Free API-Key .
 
 ## 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
