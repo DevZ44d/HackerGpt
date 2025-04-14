@@ -41,6 +41,14 @@
 pip install SyncAi -U
 ```
 
+#### 🚀 Quick Start
+```python
+from SyncAi import HackerGpt
+prompt = input("Type Your PromPt : ")
+response = HackerGpt.chat(prompt)
+print(response)
+```
+
 ### Using in `Terminal` 🚀
 ```shell
 syncai -[OPTIONS] "[PROMPT]"
